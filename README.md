@@ -9,7 +9,7 @@ An interactive html browser for viewing genomic data at single read resolution
 An interface for analyzing single read data
 
 ## Software requirements:
-nodejs >8.10
-redis
-bowtie2
-sra-toolkit (for fastq-dump)
+* nodejs >8.10
+* redis
+* bowtie2
+* sra-toolkit (for fastq-dump)
